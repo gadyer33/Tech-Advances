@@ -1,0 +1,29 @@
+html {
+
+}
+h2 {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  font-size: 35px;
+}
+header {
+  text-align: center;
+  font-family: 'Lexend Giga', sans-serif;
+  background-color: #F7E9FF;
+  font-size: 38px;
+}
+.advances {
+  line-height: 1.5;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: #F7E9FF;
+  padding: 50px;
+}
+p {
+  text-indent: 3.2%;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 21px;
+}
